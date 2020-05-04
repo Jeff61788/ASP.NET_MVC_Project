@@ -1,3 +1,6 @@
+#hiding connection string in appsitting.json
+*.json
+*appsettings.Development.json
 # globs
 Makefile.in
 *.userprefs
